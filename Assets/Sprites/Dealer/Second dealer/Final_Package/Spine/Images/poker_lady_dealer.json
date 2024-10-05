@@ -1,0 +1,92 @@
+{ "skeleton": { "images": "/d/Thushal/Temp/New Works/Mazs82/Spine/Images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Background", "bone": "root", "attachment": "Background" },
+	{ "name": "hair back", "bone": "root", "attachment": "hair back" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "table", "bone": "root", "attachment": "table" },
+	{ "name": "body shadow", "bone": "root", "attachment": "body shadow" },
+	{ "name": "hand shadow_R", "bone": "root", "attachment": "hand shadow_R" },
+	{ "name": "hand shadow_L", "bone": "root", "attachment": "hand shadow_L" },
+	{ "name": "Hand_L_1", "bone": "root", "attachment": "Hand_L_1" },
+	{ "name": "Hand_L_2", "bone": "root", "attachment": "Hand_L_2" },
+	{ "name": "Hand_L_3", "bone": "root", "attachment": "Hand_L_3" },
+	{ "name": "Hand_R_1", "bone": "root", "attachment": "Hand_R_1" },
+	{ "name": "Hand_R_2", "bone": "root", "attachment": "Hand_R_2" },
+	{ "name": "Hand_R_3_Pose_1", "bone": "root", "attachment": "Hand_R_3_Pose_1" },
+	{ "name": "Hand_R_3_Pose_2", "bone": "root", "attachment": "Hand_R_3_Pose_2" },
+	{ "name": "dress_red", "bone": "root", "attachment": "dress_red" },
+	{ "name": "dress_black", "bone": "root", "attachment": "dress_black" },
+	{ "name": "face", "bone": "root", "attachment": "face" },
+	{ "name": "necklace", "bone": "root", "attachment": "necklace" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "smile", "bone": "root", "attachment": "smile" }
+],
+"skins": {
+	"default": {
+		"Background": {
+			"Background": { "x": 369, "y": -544, "width": 740, "height": 1090 }
+		},
+		"hair back": {
+			"hair back": { "x": 366, "y": -352, "width": 226, "height": 298 }
+		},
+		"body": {
+			"body": { "x": 356.5, "y": -631.5, "width": 385, "height": 481 }
+		},
+		"table": {
+			"table": { "x": 369, "y": -957, "width": 740, "height": 264 }
+		},
+		"body shadow": {
+			"body shadow": { "x": 369.5, "y": -887.5, "width": 311, "height": 125 }
+		},
+		"hand shadow_R": {
+			"hand shadow_R": { "x": 186, "y": -912.5, "width": 324, "height": 127 }
+		},
+		"hand shadow_L": {
+			"hand shadow_L": { "x": 533, "y": -907, "width": 376, "height": 126 }
+		},
+		"Hand_L_1": {
+			"Hand_L_1": { "x": 582.5, "y": -687, "width": 191, "height": 392 }
+		},
+		"Hand_L_2": {
+			"Hand_L_2": { "x": 572.5, "y": -857.5, "width": 211, "height": 151 }
+		},
+		"Hand_L_3": {
+			"Hand_L_3": { "x": 436, "y": -896, "width": 190, "height": 102 }
+		},
+		"Hand_R_1": {
+			"Hand_R_1": { "x": 199.5, "y": -681, "width": 295, "height": 402 }
+		},
+		"Hand_R_2": {
+			"Hand_R_2": { "x": 143.5, "y": -866, "width": 183, "height": 134 }
+		},
+		"Hand_R_3_Pose_1": {
+			"Hand_R_3_Pose_1": { "x": 275, "y": -899, "width": 190, "height": 102 }
+		},
+		"Hand_R_3_Pose_2": {
+			"Hand_R_3_Pose_2": { "x": 266, "y": -914.5, "width": 178, "height": 95 }
+		},
+		"dress_red": {
+			"dress_red": { "x": 370.5, "y": -664, "width": 363, "height": 338 }
+		},
+		"dress_black": {
+			"dress_black": { "x": 370.5, "y": -664, "width": 363, "height": 338 }
+		},
+		"face": {
+			"face": { "x": 360.5, "y": -337, "width": 179, "height": 248 }
+		},
+		"necklace": {
+			"necklace": { "x": 362.5, "y": -537, "width": 159, "height": 160 }
+		},
+		"hair": {
+			"hair": { "x": 352, "y": -461.5, "width": 442, "height": 557 }
+		},
+		"smile": {
+			"smile": { "x": 364, "y": -413.5, "width": 90, "height": 61 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

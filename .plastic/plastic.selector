@@ -1,0 +1,4 @@
+repository "Lala Poker@LaLa_Poker@cloud"
+  path "/"
+    br "/main"
+    co "/main"

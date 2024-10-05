@@ -1,0 +1,146 @@
+
+poker_lady_dealer.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hand_L_1
+  rotate: false
+  xy: 389, 125
+  size: 191, 379
+  orig: 191, 392
+  offset: 0, 0
+  index: -1
+Hand_L_2
+  rotate: false
+  xy: 950, 522
+  size: 202, 151
+  orig: 211, 151
+  offset: 9, 0
+  index: -1
+Hand_L_3
+  rotate: false
+  xy: 954, 70
+  size: 190, 102
+  orig: 190, 102
+  offset: 0, 0
+  index: -1
+Hand_L_3_Top
+  rotate: true
+  xy: 1154, 529
+  size: 190, 102
+  orig: 190, 102
+  offset: 0, 0
+  index: -1
+Hand_R_1
+  rotate: false
+  xy: 446, 642
+  size: 266, 377
+  orig: 295, 402
+  offset: 0, 0
+  index: -1
+Hand_R_2
+  rotate: false
+  xy: 446, 506
+  size: 183, 134
+  orig: 183, 134
+  offset: 0, 0
+  index: -1
+Hand_R_3_Pose_1
+  rotate: true
+  xy: 1215, 337
+  size: 190, 102
+  orig: 190, 102
+  offset: 0, 0
+  index: -1
+Hand_R_3_Pose_2
+  rotate: false
+  xy: 1037, 180
+  size: 178, 95
+  orig: 178, 95
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 87
+  size: 385, 417
+  orig: 385, 481
+  offset: 0, 64
+  index: -1
+body shadow
+  rotate: false
+  xy: 389, 2
+  size: 302, 121
+  orig: 311, 125
+  offset: 5, 3
+  index: -1
+cards
+  rotate: false
+  xy: 693, 32
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+dress_black
+  rotate: true
+  xy: 714, 675
+  size: 344, 331
+  orig: 363, 338
+  offset: 12, 0
+  index: -1
+dress_red
+  rotate: true
+  xy: 704, 174
+  size: 344, 331
+  orig: 363, 338
+  offset: 12, 0
+  index: -1
+face
+  rotate: false
+  xy: 1037, 277
+  size: 176, 243
+  orig: 179, 248
+  offset: 3, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 506
+  size: 442, 513
+  orig: 442, 557
+  offset: 0, 44
+  index: -1
+hair back
+  rotate: false
+  xy: 1047, 721
+  size: 225, 298
+  orig: 226, 298
+  offset: 0, 0
+  index: -1
+hand shadow_L
+  rotate: true
+  xy: 582, 141
+  size: 363, 120
+  orig: 376, 126
+  offset: 8, 4
+  index: -1
+hand shadow_R
+  rotate: false
+  xy: 631, 520
+  size: 317, 120
+  orig: 324, 127
+  offset: 3, 4
+  index: -1
+necklace
+  rotate: false
+  xy: 793, 13
+  size: 159, 159
+  orig: 159, 160
+  offset: 0, 1
+  index: -1
+smile
+  rotate: false
+  xy: 2, 8
+  size: 116, 77
+  orig: 116, 78
+  offset: 0, 0
+  index: -1
